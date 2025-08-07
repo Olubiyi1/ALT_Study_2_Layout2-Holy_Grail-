@@ -98,6 +98,7 @@ footer {
   aside {
     border-left: 0;
     border-top: 1px solid var(--border-color);
+    padding: 30px;
   }
 
   article h2 {
